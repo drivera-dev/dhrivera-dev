@@ -15,9 +15,6 @@ I love building APIs with NestJS, Prisma & GraphQL, and crafting UIs with React.
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="80" height="40"/>
   </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prisma/art/master/icons/logo.svg" alt="Prisma" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
